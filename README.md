@@ -49,9 +49,13 @@ The easiest way to try out mammoth is to use the web demo:
 * Run `make setup`
 * Open `browser-demo/index.html` in a web browser
 
-## Installation
+## Installation with npm
 
     npm install mammoth
+
+## Installation with bower
+
+    bower install mammoth
 
 ## Other supported platforms
 
