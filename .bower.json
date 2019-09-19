@@ -1,0 +1,25 @@
+{
+  "name": "mammoth",
+  "description": "Convert Word documents from docx to simple HTML and Markdown",
+  "main": "./lib/index.js",
+  "keywords": [
+    "docx",
+    "html",
+    "office",
+    "word",
+    "markdown",
+    "md"
+  ],
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwilliamson/mammoth.js.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "_source": "npm:mammoth",
+  "_target": "1.4.8",
+  "_release": "1.4.8",
+  "version": "1.4.8",
+  "_originalSource": "npm:mammoth"
+}
